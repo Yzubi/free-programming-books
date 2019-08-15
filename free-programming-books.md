@@ -952,6 +952,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [SEI CERT
+* [C Coding Standard - Rules for Developing Safe, Reliable, and Secure Systems - (2016)](https://resources.sei.cmu.edu/downloads/secure-coding/assets/sei-cert-c-coding-standard-2016-v01.pdf)
 
 
 ### C Sharp
